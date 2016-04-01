@@ -1,0 +1,2425 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 190.0,
+                "y": 122.0
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_000.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 201.0,
+                "y": 102.0
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_001.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 231.0,
+                "y": 82.0
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_002.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 229.0,
+                "y": 106.0
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_003.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 190.0,
+                "y": 127.0
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_004.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 183.0,
+                "y": 114.0
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_005.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 205.0,
+                "y": 117.0
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_006.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 180.0,
+                "y": 143.0
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_007.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 172.0,
+                "y": 104.0
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_008.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 178.11513130556875,
+                "y": 119.93085507908296
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_009.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "paw_pos/frame_010.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 175.74026288816117,
+                "y": 129.4303287487133
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_011.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 156.7413155489005,
+                "y": 102.11934194852608
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_012.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 169.8030918446422,
+                "y": 124.68059191389813
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_013.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "paw_pos/frame_014.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 185.2397365577915,
+                "y": 138.92980241834363
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_015.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 182.86486814038392,
+                "y": 141.3046708357512
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_016.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "paw_pos/frame_017.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 159.11618396630809,
+                "y": 147.24184187927017
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_018.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 198.3015128535332,
+                "y": 117.55598666167538
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_019.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 186.4271707664953,
+                "y": 125.86802612260192
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_020.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 181.67743393168013,
+                "y": 132.99263137482467
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_021.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "paw_pos/frame_022.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 154.36644713149292,
+                "y": 140.11723662704742
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_023.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 167.42822342723463,
+                "y": 131.80519716612088
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_024.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 195.92664443612563,
+                "y": 91.43243407019196
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_025.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 218.48789440149767,
+                "y": 93.80730248759954
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_026.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 201.8638154796446,
+                "y": 112.80624982686021
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_027.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 185.2397365577915,
+                "y": 125.86802612260192
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_028.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 179.30256551427254,
+                "y": 134.18006558352846
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_029.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 179.30256551427254,
+                "y": 137.74236820963984
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_030.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 179.30256551427254,
+                "y": 141.3046708357512
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_031.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 174.55282867945738,
+                "y": 142.492105044455
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_032.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 175.74026288816117,
+                "y": 143.6795392531588
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_033.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 178.11513130556875,
+                "y": 137.74236820963984
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_034.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 169.8030918446422,
+                "y": 134.18006558352846
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_035.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "paw_pos/frame_036.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 173.36539447075359,
+                "y": 140.11723662704742
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_037.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 143.6795392531588,
+                "y": 105.68164457463746
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_038.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 156.7413155489005,
+                "y": 123.49315770519433
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_039.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "paw_pos/frame_040.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 165.05335500982704,
+                "y": 110.43138140945263
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_041.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 150.80414450538154,
+                "y": 97.36960511371092
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_042.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 167.42822342723463,
+                "y": 119.93085507908296
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_043.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "paw_pos/frame_044.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 182.86486814038392,
+                "y": 147.24184187927017
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_045.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 156.7413155489005,
+                "y": 90.24499986148817
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_046.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 146.05440767056638,
+                "y": 90.24499986148817
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_047.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 153.17901292278913,
+                "y": 112.80624982686021
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_048.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 175.74026288816117,
+                "y": 141.3046708357512
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_049.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 136.55493400093604,
+                "y": 85.495263026673
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_050.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 140.11723662704742,
+                "y": 94.99473669630333
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_051.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 176.92769709686496,
+                "y": 140.11723662704742
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_052.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 136.55493400093604,
+                "y": 85.495263026673
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_053.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 141.3046708357512,
+                "y": 94.99473669630333
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_054.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 157.9287497576043,
+                "y": 127.05546033130571
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_055.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 127.05546033130571,
+                "y": 96.18217090500713
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_056.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 131.80519716612088,
+                "y": 112.80624982686021
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_057.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 157.9287497576043,
+                "y": 124.68059191389813
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_058.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 179.00000000000003,
+                "y": 162.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_059.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 162.00000000000003,
+                "y": 129.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_060.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 127.00000000000003,
+                "y": 101.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_061.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 135.00000000000003,
+                "y": 114.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_062.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 157.00000000000003,
+                "y": 127.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_063.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 166.00000000000003,
+                "y": 138.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_064.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 178.00000000000003,
+                "y": 163.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_065.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 160.00000000000003,
+                "y": 129.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_066.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 128.00000000000003,
+                "y": 99.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_067.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 134.00000000000003,
+                "y": 116.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_068.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 159.00000000000003,
+                "y": 125.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_069.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 181.00000000000003,
+                "y": 163.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_070.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 160.00000000000003,
+                "y": 126.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_071.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 128.00000000000003,
+                "y": 100.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_072.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 134.1800655835285,
+                "y": 113.99368403556403
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_073.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 154.36644713149295,
+                "y": 125.86802612260195
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_074.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 182.86486814038395,
+                "y": 157.92874975760432
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_075.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 148.429276087974,
+                "y": 86.6826972353768
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_076.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 138.92980241834366,
+                "y": 96.18217090500714
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_077.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 143.67953925315882,
+                "y": 105.68164457463747
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_078.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 161.4910523837157,
+                "y": 123.49315770519436
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_079.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "paw_pos/frame_080.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 169.80309184464224,
+                "y": 118.7434208703792
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_081.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 136.55493400093607,
+                "y": 68.87118410481993
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_082.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 130.6177629574171,
+                "y": 90.24499986148818
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_083.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 132.9926313748247,
+                "y": 112.80624982686022
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_084.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 160.3036181750119,
+                "y": 129.43032874871332
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_085.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 180.48999972297636,
+                "y": 156.74131554890053
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_086.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 146.0544076705664,
+                "y": 130.6177629574171
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_087.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 124.68059191389816,
+                "y": 118.7434208703792
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_088.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 137.74236820963986,
+                "y": 123.49315770519436
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_089.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 151.99157871408536,
+                "y": 137.74236820963986
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_090.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 157.92874975760432,
+                "y": 146.0544076705664
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_091.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 157.92874975760432,
+                "y": 150.80414450538157
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_092.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 157.92874975760432,
+                "y": 151.99157871408536
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_093.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 165.05335500982707,
+                "y": 154.36644713149295
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_094.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 137.74236820963986,
+                "y": 118.7434208703792
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_095.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 135.36749979223228,
+                "y": 129.43032874871332
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_096.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 146.0544076705664,
+                "y": 132.9926313748247
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_097.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "paw_pos/frame_098.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 151.99157871408536,
+                "y": 112.80624982686022
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_099.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 130.6177629574171,
+                "y": 103.30677615722989
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_100.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 149.61671029667778,
+                "y": 130.6177629574171
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_101.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 151.99157871408536,
+                "y": 134.1800655835285
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_102.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 162.6784865924195,
+                "y": 147.2418418792702
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_103.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 166.24078921853086,
+                "y": 153.17901292278916
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_104.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 150.80414450538157,
+                "y": 124.68059191389816
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_105.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 109.24394720074885,
+                "y": 104.49421036593368
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_106.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 143.67953925315882,
+                "y": 132.9926313748247
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_107.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 153.17901292278916,
+                "y": 136.55493400093607
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_108.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 157.92874975760432,
+                "y": 141.30467083575124
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_109.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 161.4910523837157,
+                "y": 94.99473669630335
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_110.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 162.6784865924195,
+                "y": 117.5559866616754
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_111.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 192.36434181001428,
+                "y": 70.05861831352372
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_112.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 222.05019702760907,
+                "y": 77.18322356574647
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_113.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 213.73815756668253,
+                "y": 113.99368403556403
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_114.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 201.86381547964461,
+                "y": 118.7434208703792
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_115.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 172.17796026204982,
+                "y": 141.30467083575124
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_116.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 223.23763123631286,
+                "y": 105.68164457463747
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_117.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 213.73815756668253,
+                "y": 121.11828928778678
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_118.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 189.9894733926067,
+                "y": 129.43032874871332
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_119.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 187.61460497519911,
+                "y": 132.9926313748247
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_120.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 182.86486814038395,
+                "y": 140.11723662704745
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_121.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 180.48999972297636,
+                "y": 141.30467083575124
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_122.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 182.86486814038395,
+                "y": 144.8669734618626
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_123.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 181.67743393168016,
+                "y": 141.30467083575124
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_124.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 181.67743393168016,
+                "y": 141.30467083575124
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_125.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 178.11513130556878,
+                "y": 143.67953925315882
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_126.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 180.48999972297636,
+                "y": 142.49210504445503
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_127.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 181.67743393168016,
+                "y": 141.30467083575124
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_128.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 181.67743393168016,
+                "y": 142.49210504445503
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_129.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 181.67743393168016,
+                "y": 140.11723662704745
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_130.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 181.67743393168016,
+                "y": 143.67953925315882
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_131.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 184.05230234908774,
+                "y": 141.30467083575124
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_132.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 181.67743393168016,
+                "y": 141.30467083575124
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_133.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 184.05230234908774,
+                "y": 141.30467083575124
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_134.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 180.48999972297636,
+                "y": 140.11723662704745
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_135.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 181.00000000000003,
+                "y": 141.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_136.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 182.00000000000003,
+                "y": 143.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_137.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 179.00000000000003,
+                "y": 144.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_138.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 181.00000000000003,
+                "y": 142.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_139.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 180.00000000000003,
+                "y": 145.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_140.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 182.00000000000003,
+                "y": 145.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_141.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 184.00000000000003,
+                "y": 143.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_142.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 180.00000000000003,
+                "y": 143.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_143.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 180.00000000000003,
+                "y": 142.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_144.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 180.00000000000003,
+                "y": 143.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_145.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 182.00000000000003,
+                "y": 143.00000000000003
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_146.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 179.3025655142726,
+                "y": 142.49210504445506
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_147.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 176.92769709686502,
+                "y": 142.49210504445506
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_148.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 182.86486814038398,
+                "y": 151.9915787140854
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_149.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 162.67848659241952,
+                "y": 113.99368403556404
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_150.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 166.2407892185309,
+                "y": 119.930855079083
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_151.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "paw_pos/frame_152.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 156.74131554890056,
+                "y": 151.9915787140854
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_153.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 199.4889470622371,
+                "y": 89.0575656527844
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_154.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 212.5507233579788,
+                "y": 97.36960511371096
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_155.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 191.17690760131055,
+                "y": 122.30572349649059
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_156.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "paw_pos/frame_157.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 149.6167102966778,
+                "y": 131.80519716612093
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_158.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 165.0533550098271,
+                "y": 93.80730248759957
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_159.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 216.11302598409017,
+                "y": 99.74447353111854
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_160.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 210.1758549405712,
+                "y": 117.55598666167542
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_161.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 186.42717076649535,
+                "y": 130.61776295741714
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_162.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 169.80309184464227,
+                "y": 108.05651299204509
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_163.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 173.36539447075364,
+                "y": 116.36855245297163
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_164.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 166.2407892185309,
+                "y": 128.24289454000956
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_165.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 150.8041445053816,
+                "y": 85.49526302667303
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_166.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 155.55388134019677,
+                "y": 98.55703932241475
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_167.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 165.0533550098271,
+                "y": 119.930855079083
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_168.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 172.17796026204985,
+                "y": 134.18006558352852
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_169.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 173.36539447075364,
+                "y": 119.930855079083
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_170.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 178.1151313055688,
+                "y": 134.18006558352852
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_171.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 167.42822342723468,
+                "y": 102.11934194852613
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_172.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 165.0533550098271,
+                "y": 105.6816445746375
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_173.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 166.2407892185309,
+                "y": 121.1182892877868
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_174.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 175.74026288816123,
+                "y": 154.36644713149298
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_175.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 180.4899997229764,
+                "y": 149.6167102966778
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_176.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 150.8041445053816,
+                "y": 85.49526302667303
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_177.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 140.11723662704748,
+                "y": 75.9957893570427
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_178.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 135.3674997922323,
+                "y": 99.74447353111854
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_179.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 141.30467083575127,
+                "y": 112.80624982686025
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_180.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 156.74131554890056,
+                "y": 119.930855079083
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_181.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 159.11618396630814,
+                "y": 122.30572349649059
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_182.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 161.49105238371573,
+                "y": 122.30572349649059
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_183.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 160.30361817501193,
+                "y": 127.05546033130575
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_184.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 161.49105238371573,
+                "y": 130.61776295741714
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_185.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "paw_pos/frame_186.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "paw_pos/frame_187.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "paw_pos/frame_188.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "paw_pos/frame_189.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 159.11618396630814,
+                "y": 125.86802612260196
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_190.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 165.0533550098271,
+                "y": 130.61776295741714
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_191.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 165.0533550098271,
+                "y": 137.7423682096399
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_192.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 129.43032874871335,
+                "y": 93.80730248759957
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_193.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 134.18006558352852,
+                "y": 110.43138140945267
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_194.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 161.49105238371573,
+                "y": 127.05546033130575
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_195.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 169.80309184464227,
+                "y": 140.11723662704748
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_196.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 165.0533550098271,
+                "y": 136.5549340009361
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_197.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 125.86802612260196,
+                "y": 89.0575656527844
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_198.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 134.18006558352852,
+                "y": 108.05651299204509
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_199.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 159.11618396630814,
+                "y": 125.86802612260196
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_200.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 170.99052605334606,
+                "y": 140.11723662704748
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_201.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 159.11618396630814,
+                "y": 87.87013144408061
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_202.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 138.92980241834368,
+                "y": 70.05861831352374
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_203.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 127.05546033130575,
+                "y": 89.0575656527844
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_204.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 148.42927608797402,
+                "y": 123.49315770519438
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_205.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "paw_pos/frame_206.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 156.74131554890056,
+                "y": 115.18111824426784
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_207.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 140.11723662704748,
+                "y": 75.9957893570427
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_208.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 123.49315770519438,
+                "y": 100.93190773982234
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_209.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 131.80519716612093,
+                "y": 103.30677615722992
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_210.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 150.8041445053816,
+                "y": 124.68059191389817
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_211.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 155.55388134019677,
+                "y": 128.24289454000956
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_212.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 175.74026288816123,
+                "y": 134.18006558352852
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_213.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 212.5507233579788,
+                "y": 110.43138140945267
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_214.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 193.55177601871813,
+                "y": 125.86802612260196
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_215.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 185.23973655779156,
+                "y": 144.86697346186264
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_216.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 170.99052605334606,
+                "y": 138.92980241834368
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_217.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 198.3015128535333,
+                "y": 96.18217090500717
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_218.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 222.05019702760913,
+                "y": 99.74447353111854
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_219.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 214.92559177538638,
+                "y": 109.24394720074888
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_220.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 210.1758549405712,
+                "y": 117.55598666167542
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_221.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 207.80098652316363,
+                "y": 116.36855245297163
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_222.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 184.05230234908777,
+                "y": 131.80519716612093
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_223.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 179.3025655142726,
+                "y": 144.86697346186264
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_224.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 163.8659208011233,
+                "y": 113.99368403556404
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_225.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 136.5549340009361,
+                "y": 73.62092093963511
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_226.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 129.43032874871335,
+                "y": 89.0575656527844
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_227.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 146.05440767056643,
+                "y": 118.74342087037921
+            }
+        ],
+        "class": "image",
+        "filename": "paw_pos/frame_228.png"
+    }
+]
